@@ -1,0 +1,15 @@
+setup.py
+seqrecord/__init__.py
+seqrecord/utils.py
+seqrecord.egg-info/PKG-INFO
+seqrecord.egg-info/SOURCES.txt
+seqrecord.egg-info/dependency_links.txt
+seqrecord.egg-info/requires.txt
+seqrecord.egg-info/top_level.txt
+seqrecord/robot/__init__.py
+seqrecord/robot/datapipes.py
+seqrecord/robot/seqrecord.py
+seqrecord/weather/__init__.py
+seqrecord/weather/constants.py
+seqrecord/weather/datapipes.py
+seqrecord/weather/seqrecord.py
